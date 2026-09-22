@@ -217,4 +217,4 @@ FolderSizes is provided as a complete free version with all features and updates
 Take control of your hard drive space today! Download FolderSizes for free and start optimizing your storage effectively.
 
 ---
-**Last updated:** 2026-09-22 18:36:56 UTC
+**Last updated:** 2026-09-22 21:52:38 UTC
